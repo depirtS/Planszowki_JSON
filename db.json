@@ -5,7 +5,7 @@
     "minLG": 3,
     "maxLG": 6,
     "czas": 3,
-    "trudnosc" 4
+    "trudnosc": 4
   },
   {
     "tytul": "Monopoly",
@@ -18,8 +18,8 @@
     "tytul": "Uno",
     "minLG": 2,
     "maxLG": 10,
-    "czas": 1,
-    "trudnosc" 1
+    "czas": 0.5,
+    "trudnosc": 1
   }
 ]
 }
